@@ -61,3 +61,11 @@ h1{
 #lightyellow{
   background-color:lightyellow;
 }
+#left{
+  margin-left:2px solid;
+}
+#side-color{
+  border-left:7px solid;
+  border-image: linear-gradient(brown,pink);
+  border-image-slice: 1;
+}
