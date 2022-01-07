@@ -1,5 +1,5 @@
 h1{
-  font-size: 50px;
+  font-size: 60px;
 }
 .orange-color{
   color:orange;
@@ -25,4 +25,13 @@ h1{
 }
 .img{
   height:500px;
+}
+#red{
+  color:red;
+}
+#balck{
+  background-color:black;
+}
+.white{
+  color:white;
 }
